@@ -42,8 +42,7 @@ Dataset source: [Government of Canada - CO2 Emissions Dataset](https://open.cana
    - Performance comparison with bar charts (MSE, MAE, R²)  
 
 5. **Predictions for Engines**  
-   - TU5, XU7, EF7 parameters were used to predict CO₂ emissions.  
-   - Results were visualized with bar charts for better comparison.  
+   - TU5, XU7, EF7 parameters were used to predict CO₂ emissions.   
 
 ---
 
