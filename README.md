@@ -18,7 +18,7 @@ Dataset source: [Government of Canada - CO2 Emissions Dataset](https://open.cana
 
 ---
 
-## ⚙ Project Workflow
+##  Project Workflow
 1. **Data Exploration & Visualization**  
    - Distribution of CO₂ emissions  
    - Relationship between engine size, cylinders, and emissions  
